@@ -20,4 +20,4 @@ public class PathTraversal extends Lesson {
   public String getTitle() {
     return "path-traversal-title";
   }
-}
+} 
