@@ -18,4 +18,4 @@ public class FileReaderExample {
         File file = getFile(args[0]);
         System.out.println("Accessing: " + file.getCanonicalPath());
     }
-}
+} 
