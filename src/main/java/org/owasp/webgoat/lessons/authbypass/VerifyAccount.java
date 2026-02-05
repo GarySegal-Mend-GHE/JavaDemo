@@ -34,7 +34,7 @@ public class VerifyAccount implements AssignmentEndpoint {
 
   private final LessonSession userSessionData;
 
-  string password = "hardcoded password";
+  String password = "hardcoded password";
 
   public VerifyAccount(LessonSession userSessionData) {
     this.userSessionData = userSessionData;
